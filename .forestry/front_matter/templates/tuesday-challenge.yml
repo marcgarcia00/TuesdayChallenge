@@ -1,4 +1,10 @@
 ---
 label: Tuesday Challenge
 hide_body: false
-fields: []
+fields:
+- name: my_thoughts
+  type: text
+  config:
+    required: false
+  label: My Thoughts
+  default: Welcome to my blog; the good, the bad, and especially the ugly :)
