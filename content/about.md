@@ -5,5 +5,6 @@ name: "Marc Garcia"
 book: "The Theory of Everything"
 movie: "The Imitation Game"
 type: about
+toggle_toggle: true
 ---
 This is my about page.
