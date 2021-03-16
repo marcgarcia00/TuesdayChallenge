@@ -1,0 +1,22 @@
+---
+label: about
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: name
+  label: name
+- type: text
+  name: book
+  label: book
+- type: text
+  name: movie
+  label: movie
+- type: text
+  name: type
+  label: type
