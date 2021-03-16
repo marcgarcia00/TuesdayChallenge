@@ -1,4 +1,9 @@
 ---
 label: my_thoughts
 hide_body: false
-fields: []
+fields:
+- name: upload_profile_picture
+  type: file
+  config:
+    maxSize: 64
+  label: Upload Profile Picture
