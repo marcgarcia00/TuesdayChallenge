@@ -22,4 +22,5 @@ fields:
   label: type
 - name: toggle_toggle
   type: boolean
-  label: Toggle Toggle
+  label: My Toggle
+  description: Description text
